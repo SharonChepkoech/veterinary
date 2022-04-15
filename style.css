@@ -14,6 +14,47 @@
  font-weight: lighter;
  cursor:pointer;
 }
+.pOne{
+    margin-left: 8%;
+   color: orange;
+}
+#play{
+    color: #4599AD;
+    margin-left: 17%;
+    margin-top: -7;
+}
+
+.txt1{
+    margin-left: 8%;
+    font-size: 30px;
+}
+.par{
+    margin-left: 8%;
+    font-size: 20px;
+}
+
+.getstarted{
+    border: #4599AD;
+    border-radius:12%;
+    background-color: #4599AD;
+    width: 79px;
+    height: 32px;
+    margin-left: 8%;
+    padding-top: 12px;
+    align-content: center;
+}
+.contact-us{
+    border: solid #4599AD;
+    border-radius:10%;
+    background-color: #4599AD;
+    width: 152px;
+    height: 32px;
+    margin-left: 8%;
+    padding-top: 10px;
+    align-content: center;
+    padding-left: 12%;
+    margin-top: 8%;
+}
 #header #site_name
 {
  text-align:left;
@@ -22,48 +63,320 @@
  margin-left:20px;
 }
 .first{
-    background-color: aqua;
+    height: 610px;
+    background-color: #ECF9FD;
 }
-.txt1{
-    margin-right: 60%;
-    font-size: 30px;
+
+/* .img1{
+    margin-right: 80; */
+/* } */
+.second{
+    background-color:#F9FEFF ;
+    height: 820px;
 }
-.par{
-    margin-right: 60%;
-    font-size: 20px;
+.words{
+    display: flex;
+
 }
-.img1{
-    margin-right: 80;
+.words{
+    padding: 9%;
 }
-.second{background-color: rgb(35, 194, 141);
+
+.words p{
+    margin-left: 45%;
 }
+.feedback{
+   
+    display: flex;
+    padding: 5%;
+    margin-left: 5%;
+}
+.feedback p{
+    margin-left: 45%;
+    margin-left: 34%;
+}
+
 .up{
     display: flex;
 }
 .down{display: flex;
 }
-.comments{
-    display: flex;
-}
 .docs{
     display: flex;
+}
+.qualified{
+   margin-left: 6%;
+}
+.doc2{
+    margin-left: 1%;
+    padding: 80px;
+}
+.doc3{
+    margin-left: 3%;
+    padding: 80px;
+}
+.doc4{
+    margin-left: 8%;
+    padding: 80px;
 }
 .footer{
     display: flex;
 }
 .third{
-    background-color: rgb(83, 83, 195);
+    height: 400px;
+    background-color: #ECF9FD;
+    display: flex;
 }
 .fourth{
-    background-color: rgb(43, 34, 93);
+    height: 690px;
+    background-color: #F9FEFF;
 }
 .fifth{
-    background-color: rgb(0, 124, 128);
+    height: 420px;
+    background-color: #ECF9FD;
 }
 .sixth{
-    background-color: rgb(19, 29, 141);
+    background-color: #F9FEFF;
+    height: 300px;
+    width: 82%;
+    margin-left: 8%;
+    border-radius: 5%;
+
 }
+.seventh{
+    background-color: #ECF9FD;
+}
+
 .doc22{
+    padding: 10%;
     width: 5;
     height: 5;
 }
+.girlpup{
+    margin-top: -14%;
+    margin-left: 9%;
+}
+.img1{
+
+    margin-top: -19%;
+    margin-left: 2%;
+    width: 400px;
+    height: 400px;
+    margin-left: 55%;
+    border: 65px solid #D3E3E9;
+    border-width: 50%;
+    border-radius: 70%;    
+}
+
+.class{
+    width: 1px;
+    height: 10px;
+}
+.comp{
+    padding: 1%;
+    background-color: white;
+    margin-left: 8%;
+    margin-top: 4%;
+}
+.cross{
+
+    padding: 1%;
+    background-color: white;
+    margin-left: 8%;
+    margin-top: 4%;
+
+
+}
+
+.tooth{
+    padding: 1%;
+    background-color: white;
+    margin-left: 8%;
+    margin-top: 4%;
+
+
+}
+.brief{
+    padding: 1%;
+    background-color: white;
+    margin-left: 8%;
+    margin-top: 4%;
+
+}
+.paw{
+    padding: 1%;
+    background-color: white;
+    margin-left: 8%;
+    margin-top: 4%;
+
+}
+.hotel{
+    padding: 1%;
+    background-color: white;
+    margin-left: 8%;
+    margin-top: 4%;
+
+}
+.doc1{
+    margin-left: 14%;
+    padding: 1%;
+}
+.say{
+    display: flex;
+    
+}
+.allvet{
+    margin-left:20% ;
+    margin-top: 3%;
+}
+
+.helena{
+    border: solid transparent;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+.lmom{
+    margin-left: 15%;
+    margin-top: -13%;
+}
+.mom{
+    margin-left: 8%;
+    padding: 1%;
+    background-color: #ffffff;
+    height: 400px;
+    width: 500px;
+
+}
+#quote{
+    color: #4599AD;
+}
+.dad{
+    margin-left: 7%;
+    background-color: #ffffff;
+    padding: 1%;
+    height: 400px;
+    width: 500px;
+}
+.ldad{
+    margin-left: 19%;
+    margin-top: -12%;
+}
+.reviews{
+    display: flex;
+}
+.stars{
+    margin-top: 1.5%;
+    color: orangered;
+    margin-left: 15%;
+}
+.stars-one{
+    margin-top: 1.5%;
+    color: orangered;
+    margin-left: 17%;
+}
+.review{
+    display: flex;
+}
+.cont{
+    display: flex;
+}
+.allpet{
+    padding: 1%;
+    margin-left: 8%;
+}
+
+.yourpet{
+    margin-left: 1%;
+    padding: 80px;
+}
+.product{
+    margin-left: 3%;
+    padding: 80px;
+}
+.comments{
+   
+    display: flex;
+}
+
+.community{
+    margin-left: 3%;
+    padding: 80px;
+}
+.about{
+    margin-left: 3%;
+    padding: 80px;
+}
+
+.stars p3{
+    color: black;
+}
+
+#facebook{
+    color: rgb(0, 81, 255);
+}
+#twitter{
+    color: rgb(0, 81, 255);
+}
+#google{
+ color: red;   
+ 
+}
+#linkedin{
+        color: rgb(0, 81, 255);
+
+}
+
+.blogsub h1{
+    margin-left: 39%;
+    margin-top: 7%;
+    padding-top: 5%;
+}
+.enter{
+    border: solid transparent;
+    background-color: #ffffff;
+    width: 70%;
+    height: 80px;
+    margin-left: 15%;
+    margin-top: 50%;
+    border-radius: 8%;
+    margin-top: 7%;
+}
+.enter p{
+    margin-left: 5%;
+    margin-top: 5%;
+
+}
+.subscribe-button{
+    border: transparent;
+    background-color: #4599AD;
+    width: 15%;
+    height: 54px;
+    margin-left: 69%;
+    margin-top: -8.5%;
+}
+.subscribe-button p{
+    color: #FfFEFF;
+    padding-top: 10% ;
+    font-size: larger;
+    margin-left: 23%;
+}
+#paw{
+    color: #4599AD;
+}
+#ambulance{
+    color: #4599AD;
+}
+#briefcase{
+    color: #4599AD;
+}
+#hotel{
+    color: #4599AD;
+}
+#times{
+    color: #4599AD;
+}
+#laptop{
+    color: #4599AD;
+}
+
