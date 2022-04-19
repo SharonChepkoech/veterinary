@@ -18,13 +18,20 @@
     margin-left: 8%;
    color: orange;
 }
+.play-start{
+    display: flex;
+}
 .play{
     color: #4599AD;
-    margin-left: 21%;
-    margin-top: -10%;
+    margin-left: 23%;
+    margin-top: -9.5%;
     padding: 3%;
 }
-
+.get-started{
+    margin-left: 9%;
+    width: 12%;
+    margin-top: 7%;
+}
 .txt1{
     margin-left: 8%;
     font-size: 30px;
@@ -34,18 +41,6 @@
     font-size: 20px;
 }
 
-.getstarted p{
-    margin-top: 3%;
-    border: #4599AD;
-    border-radius:10%;
-    background-color: #4599AD;
-    width: 132px;
-    height: 48px;
-    margin-left: 8%;
-    padding-top: 14px;
-    padding-left: 2%;
-    align-content: center;
-}
 .contact-us{
     border: solid #4599AD;
     border-radius:10%;
@@ -104,11 +99,14 @@
     display: flex;
 }
 .qualified{
-   margin-left: 6%;
+   margin-left: 8%;
+   padding: 1.7%;
+   margin-top: 3%;
+
 }
 .doc2{
     width: 90%;
-    margin-left: 1%;
+    margin-left: 4%;
     padding: 80px;
 }
 .doc3{
@@ -132,12 +130,12 @@
     background-color: #F9FEFF;
 }
 .fifth{
-    height: 420px;
+    height: 480px;
     background-color: #ECF9FD;
 }
 .sixth{
     background-color: #F9FEFF;
-    height: 300px;
+    height: 30px;
     width: 82%;
     margin-left: 8%;
     border-radius: 5%;
@@ -158,7 +156,7 @@
 }
 .img1{
 
-    margin-top: -30%;
+    margin-top: -32%;
     margin-left: 2%;
     width: 400px;
     height: 400px;
@@ -274,6 +272,9 @@
     margin-top: 1.5%;
     color: orangered;
     margin-left: 17%;
+}
+.stars-one p3{
+    color: #040404;
 }
 .review{
     display: flex;
